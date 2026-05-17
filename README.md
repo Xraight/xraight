@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! Soy Sergio Butzmann 👋
 
-<!--
-**Xraight/xraight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería en Inteligencia Artificial @ FIME (UANL) | Lead Developer | Project Manager**
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la lógica detrás del código, las matemáticas y la creación de arquitecturas eficientes. Actualmente me desempeño como Lead Developer dirigiendo un equipo en una startup tecnológica, y participo activamente como líder dentro del capítulo estudiantil de la IEEE Computer Society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+* 🎓 Estudiando **Ingeniería en Inteligencia Artificial** en la Universidad Autónoma de Nuevo León.
+* 🎵 Gran interés en el procesamiento de señales de audio digital y el desarrollo de tecnología musical.
+* 🧮 Disfruto aplicando modelos matemáticos complejos (como las Series de Fourier y transformadas de Laplace) a problemas reales.
+* 🥊 Cuando no estoy programando, me encontrarás practicando calistenia y boxeo, leyendo sobre tácticas militares de la era Napoleónica, o analizando mecánicas y datos de eSports.
+
+### 🛠️ Stack Tecnológico y Herramientas
+
+**Desarrollo Web, Backend & Bases de Datos**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Desarrollo de Audio & E-commerce**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+
+**Documentación & Organización**  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 Proyectos Actuales y Destacados
+
+* **Proyecto USAIGE:** Desarrollando un ecosistema integral con IA para el monitoreo de consumo eléctrico utilizando Vite, Supabase y Vercel.
+* **Plugins de Audio Digital:** Creación de arquitectura de software para amplificadores de guitarra digitales mediante el framework JUCE.
+* **Arquitectura Server-Side (Gaming):** Implementación de sincronización de red y backend con Node.js y Socket.io para proyectos de videojuegos en equipo.
+
+---
